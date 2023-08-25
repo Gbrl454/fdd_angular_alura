@@ -13,3 +13,11 @@
 - Adicione navegação dinâmica entre componentes através das rotas
 - Aplique injeção de dependências na aplicação
 - Realize requisições HTTP através da classe HttpClient e desenvolva um CRUD
+
+[Angular: Formulários Orientados a Templates](https://cursos.alura.com.br/course/angular-formularios-orientados-templates)
+
+- Conheça o formulário orientado a template
+- Entenda como usa o FormsModule e suas diretivas
+- Sabia como utilizar validações padrões
+- Entenda como criar diretivas validadoras
+- Implemente validação assincrona com uso de API
