@@ -14,6 +14,16 @@
 - Aplique injeção de dependências na aplicação
 - Realize requisições HTTP através da classe HttpClient e desenvolva um CRUD
 
+[Angular 14: Evoluindo a Aplicação](https://cursos.alura.com.br/course/angular-evoluindo-aplicacao)
+
+- Aprenda a construir formulários reativos
+- Aplique validações no formulário através da classe Validators
+- Acrescente a funcionalidade de busca na aplicação
+- Adicione paginação aos dados
+- Envie parâmetros na URL por meio do HttpParams
+- Implemente a função "favoritar"
+- Utilize o serviço Router para recarregar um componente
+
 [Angular: Formulários Orientados a Templates](https://cursos.alura.com.br/course/angular-formularios-orientados-templates)
 
 - Conheça o formulário orientado a template
